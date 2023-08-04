@@ -1,1 +1,1 @@
-# bot-redirect-uri
+# curriculum-uri
